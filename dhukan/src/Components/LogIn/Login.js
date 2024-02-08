@@ -4,18 +4,16 @@ import './login.css'
 const Login = ({p}) => {
   return (
     <div className='login'>
-        	<span class="text-center">login</span>
+      <span class="text-center">login</span>
     <form>
-    <div class="input-container">
-		<input type="email" required=""/>
-		<label>Email are phone</label>		
-	</div>
-    <div class="input-container">		
-		<input type="password" required=""/>
-		<label>PassWord</label>
-	</div>
-        <div className='bottom'><a href="#">Create Account</a> <a href="#">Forgot Password</a></div>
-		<button type="button" class="btn">LogIn</button>
+    <div className="input-container">
+		<input type="text" required="requried"/>
+		<span className='label'>Email are phone</span>		</div>
+    <div className="input-container">
+		<input type="password" required="requried"/>
+		<span className='label'>PassWord</span></div>
+    <div className='bottom'><a href="#">Create Account</a><a href="#">Forgot Password</a></div>
+		<button type="button" className="btn">LogIn</button>
     </form>
     </div>
   )

@@ -5,7 +5,7 @@ import Signup from './Components/LogIn/Signup';
 
 function App() {
   return (
-    <Login/>
+    <Signup/>
   );
 }
 
