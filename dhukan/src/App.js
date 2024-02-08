@@ -1,11 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
-import Login from './Components/LogIn/Login';
-import Signup from './Components/LogIn/Signup';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Slider from './Components/Home/Slider';
+import Header from './Components/Navbar/Header';
+
+
 
 function App() {
   return (
-    <Signup/>
+    <Slider/>
   );
 }
 
