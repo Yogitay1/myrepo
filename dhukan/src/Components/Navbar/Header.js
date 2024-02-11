@@ -2,7 +2,6 @@ import React from 'react'
 import './Header.css';
 import '../Assets/stalls.png'
 
-
 import {Link} from "react-router-dom";
 
 import { FiAlignJustify} from "react-icons/fi";
