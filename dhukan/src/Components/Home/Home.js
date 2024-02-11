@@ -2,10 +2,10 @@ import React from 'react'
 import Carousel from 'react-bootstrap/Carousel';
 import './Home.css'
 
-
 function Home({images}) {
  
   return (
+    <>
     <Carousel>
       {images.map((img)=>(
       <Carousel.Item>
@@ -18,8 +18,8 @@ function Home({images}) {
         <p>{img.meaning}</p>
         </Carousel.Caption>
       </Carousel.Item>))}
-  
      </Carousel>
+     </>
         );
 };
 

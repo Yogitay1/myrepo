@@ -6,9 +6,6 @@ const images = [
    {imgurl: "https://www.thespruceeats.com/thmb/FhHcgQni8lgV0griUeDJMTAszxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chocolate_hero1-d62e5444a8734f8d8fe91f5631d51ca5.jpg", title:"Chocolate", des:"Chocolate Day"},
    {imgurl: "https://media.istockphoto.com/id/1332455278/photo/smiling-white-light-brown-and-dark-brown-teddy-bears-sitting-on-table-at-pink-wall-background.jpg?s=612x612&w=0&k=20&c=vt3NvcLmXOFQQdbp_9_V3ZVlC1Dd47OFk4UEbgDd750=", title:"Teddy", des:"Teddy Day"},
    {imgurl: "https://images.herzindagi.info/image/2024/Feb/propose-day-2024-wishes-messages.jpg", title:"propose", des:"Loving you has made me become a better person. I want to grow old with you. Happy Propose Day!"},
-
-  
-  
   ];
 
   const Sapthapadi =[
