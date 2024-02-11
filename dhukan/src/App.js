@@ -1,18 +1,13 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Footer from './Components/Footer/footer';
-import Slider from './Components/Home/Slider'
-import Item from './Components/Items/Item';
+import Slider from './Components/Home/Slider';
+import Header from './Components/Navbar/Header';
+
 
 
 function App() {
   return (
-    <>
     <Slider/>
-    <Item/>
-    <Footer/>
-
-    </>
   );
 }
 
