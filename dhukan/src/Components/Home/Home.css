@@ -1,3 +1,7 @@
 .Adjust{
-    height: 100vh;
+    height: 80vh;
+}
+.add{
+    position: absolute;
+    z-index: 2;
 }

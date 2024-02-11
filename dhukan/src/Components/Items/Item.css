@@ -1,0 +1,23 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 200px;
+
+}
+.item img {
+    height: 240px;
+    width: 200px;
+}
+h5{
+margin: 0px 5px;
+}
+.price{
+    display: flex;
+}
+p{
+    margin: 0px 10px;
+}
+
+.Old_Price{
+text-decoration: line-through;}

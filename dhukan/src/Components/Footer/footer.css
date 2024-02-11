@@ -1,0 +1,47 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    background: black;
+    height: 50%;
+    width: 100%;
+    color: white;
+}
+
+.Top{
+display: flex;
+justify-content: space-between;
+}
+.Left{
+    margin: 20px 15px;
+}
+h3{
+    margin: 15px
+}
+.Left p{
+    margin: 12px;
+}
+h4{
+    margin: 15px 0px ;
+}
+.Right{
+    margin: 20px 200px 0px 2px;
+}
+
+.Right p{
+    margin-bottom: 12px;
+}
+.Bottom{
+    text-align: center;
+    margin-top: 5%;
+}
+.Socal a{
+    margin: 10px;
+}
+.Icon{
+    height: 25px;
+    width: 25px;
+    color: aliceblue;
+}
+.Icon:hover{
+    color: rgb(95, 66, 255);
+}
